@@ -1,0 +1,27 @@
+# Environment — never commit secrets
+.env
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# TypeChain generated types
+typechain-types/
+
+# Dependencies
+node_modules/
+
+# Static analysis output
+slither.txt
+
+# Coverage reports
+coverage/
+coverage.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
