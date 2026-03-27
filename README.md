@@ -121,6 +121,11 @@ The registry should have zero knowledge of whether it is in a test or production
 - IPFS hash per call linking to off-chain analysis
 - Risk/reward weighted hit rate scoring
 - Trader staking with slashing on sustained poor performance
+- Alchemy for RPC infrastructure
+- Para wallet SDK for frontend wallet integration
+- Tenderly for transaction simulation and debugging
+- SubscriptionVault contract for streaming RBTC payments
+- Frontend: Discover, Trader Profile, Post a Call, My Subscriptions screens
 
 ---
 
@@ -132,10 +137,9 @@ The registry should have zero knowledge of whether it is in a test or production
 | Solidity 0.8.20                 | Smart contract language                      |
 | TypeScript                      | Test and script language                     |
 | MockOracle                      | Custom price oracle for testnet simulation   |
-| Alchemy                         | RPC endpoint for Rootstock testnet           |
-| Tenderly                        | Contract simulation and debugging            |
+| Rootstock Public Node           | RPC endpoint for testnet deployment          |
 | Slither                         | Static analysis                              |
-| Sourcify                        | Contract verification on Rootstock Explorer  |
+| Rootstock Explorer              | Manual contract verification (flatten)       |
 
 ---
 
