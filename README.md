@@ -147,8 +147,8 @@ The registry should have zero knowledge of whether it is in a test or production
 
 | Contract           | Address |
 | ------------------ | ------- |
-| MockOracle         | TBD     |
-| PredictionRegistry | TBD     |
+| MockOracle         | [0x112c9D9AFcEa96745f580dEC4ab9fCCD6040b185](https://explorer.testnet.rootstock.io/address/0x112c9D9AFcEa96745f580dEC4ab9fCCD6040b185) |
+| PredictionRegistry | [0x1318Bb0D47c9Af66102AfA2A791f365b88368c17](https://explorer.testnet.rootstock.io/address/0x1318Bb0D47c9Af66102AfA2A791f365b88368c17) |
 
 **Verification:** Both contracts verified on [Rootstock Testnet Explorer](https://explorer.testnet.rootstock.io)
 

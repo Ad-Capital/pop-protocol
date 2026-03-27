@@ -1,0 +1,10 @@
+{
+  "network": "rskTestnet",
+  "chainId": 31,
+  "deployer": "0x30B7b8CE0Bf49E35E88fFaD898a1A1430802ECB5",
+  "timestamp": "2026-03-27T19:15:01.334Z",
+  "contracts": {
+    "MockOracle": "0x112c9D9AFcEa96745f580dEC4ab9fCCD6040b185",
+    "PredictionRegistry": "0x1318Bb0D47c9Af66102AfA2A791f365b88368c17"
+  }
+}
